@@ -6,4 +6,4 @@ Machine learning Engineer
 
 Stack
 - Python, SQL (Oracle)
------
+---
